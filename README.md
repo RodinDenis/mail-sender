@@ -2,7 +2,7 @@
 # 📧 Email Sender Script (Python)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 
 > Простой и удобный CLI-скрипт для массовой отправки email через SMTP (например, Gmail)
@@ -159,4 +159,4 @@ Pull requests приветствуются 🚀
 
 ## 📜 License
 
-MIT License
+Apache License Version 2.0
